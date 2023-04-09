@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnyeDoN\bin\Debug\net6.0\ChetnyeDoN.exe
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnyeDoN\bin\Debug\net6.0\ChetnyeDoN.deps.json
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnyeDoN\bin\Debug\net6.0\ChetnyeDoN.runtimeconfig.json
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnyeDoN\bin\Debug\net6.0\ChetnyeDoN.dll
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnyeDoN\bin\Debug\net6.0\ChetnyeDoN.pdb
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnyeDoN\obj\Debug\net6.0\ChetnyeDoN.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnyeDoN\obj\Debug\net6.0\ChetnyeDoN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnyeDoN\obj\Debug\net6.0\ChetnyeDoN.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnyeDoN\obj\Debug\net6.0\ChetnyeDoN.AssemblyInfo.cs
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnyeDoN\obj\Debug\net6.0\ChetnyeDoN.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnyeDoN\obj\Debug\net6.0\ChetnyeDoN.dll
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnyeDoN\obj\Debug\net6.0\refint\ChetnyeDoN.dll
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnyeDoN\obj\Debug\net6.0\ChetnyeDoN.pdb
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnyeDoN\obj\Debug\net6.0\ChetnyeDoN.genruntimeconfig.cache
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnyeDoN\obj\Debug\net6.0\ref\ChetnyeDoN.dll
