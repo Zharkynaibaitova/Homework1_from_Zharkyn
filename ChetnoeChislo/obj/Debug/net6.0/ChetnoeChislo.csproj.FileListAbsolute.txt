@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnoeChislo\obj\Debug\net6.0\ChetnoeChislo.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnoeChislo\obj\Debug\net6.0\ChetnoeChislo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnoeChislo\obj\Debug\net6.0\ChetnoeChislo.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnoeChislo\obj\Debug\net6.0\ChetnoeChislo.AssemblyInfo.cs
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnoeChislo\obj\Debug\net6.0\ChetnoeChislo.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnoeChislo\bin\Debug\net6.0\ChetnoeChislo.exe
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnoeChislo\bin\Debug\net6.0\ChetnoeChislo.deps.json
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnoeChislo\bin\Debug\net6.0\ChetnoeChislo.runtimeconfig.json
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnoeChislo\bin\Debug\net6.0\ChetnoeChislo.dll
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnoeChislo\bin\Debug\net6.0\ChetnoeChislo.pdb
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnoeChislo\obj\Debug\net6.0\ChetnoeChislo.dll
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnoeChislo\obj\Debug\net6.0\refint\ChetnoeChislo.dll
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnoeChislo\obj\Debug\net6.0\ChetnoeChislo.pdb
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnoeChislo\obj\Debug\net6.0\ChetnoeChislo.genruntimeconfig.cache
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\ChetnoeChislo\obj\Debug\net6.0\ref\ChetnoeChislo.dll
