@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\Max3chisla\bin\Debug\net6.0\Max3chisla.exe
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\Max3chisla\bin\Debug\net6.0\Max3chisla.deps.json
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\Max3chisla\bin\Debug\net6.0\Max3chisla.runtimeconfig.json
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\Max3chisla\bin\Debug\net6.0\Max3chisla.dll
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\Max3chisla\bin\Debug\net6.0\Max3chisla.pdb
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\Max3chisla\obj\Debug\net6.0\Max3chisla.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\Max3chisla\obj\Debug\net6.0\Max3chisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\Max3chisla\obj\Debug\net6.0\Max3chisla.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\Max3chisla\obj\Debug\net6.0\Max3chisla.AssemblyInfo.cs
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\Max3chisla\obj\Debug\net6.0\Max3chisla.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\Max3chisla\obj\Debug\net6.0\Max3chisla.dll
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\Max3chisla\obj\Debug\net6.0\refint\Max3chisla.dll
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\Max3chisla\obj\Debug\net6.0\Max3chisla.pdb
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\Max3chisla\obj\Debug\net6.0\Max3chisla.genruntimeconfig.cache
+C:\Users\user\Desktop\Project777\Homework1_from_Zharkyn\Max3chisla\obj\Debug\net6.0\ref\Max3chisla.dll
